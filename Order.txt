@@ -1,0 +1,1 @@
+hand (roll, pitch, yaw), distances (thumb_pointer, thumb_middle, thumb_ring, thumb_pinky, pointer_middle, pointer_ring, pointer_pinky, middle_ring, middle_pinky, ring_pinky), thumb (dip, pip, mcp, wrist_distance), pointer (dip, pip, mcp, wrist_distance), middle (dip, pip, mcp, wrist_distance), ring (dip, pip, mcp, wrist_distance), pinky (dip, pip, mcp, wrist_distance),
